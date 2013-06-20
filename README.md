@@ -1,5 +1,5 @@
-My [js1k.com](http://js1k.com) submission for this year's compo.
-======
+[js1k.com](http://js1k.com) entry for this year's compo.
+------
 
 Full shim for the compo.
 Entry can be found [here](http://js1k.com/2013-spring/demo/1378)
